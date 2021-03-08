@@ -10,8 +10,6 @@
 ### 📈  Looking forward to - 
 ➜ Seeking roles as a Data Scientist, ML Engineer, Data Analyst, Data Engineer, Business Analyst, Python Developer or a Full Stack Software Engineer in a fast-paced and code intensive environment.
 
-### 🔗 Connect -
-- 💼  [LinkedIn](https://www.linkedin.com/in/sheetal-bongale/)
-- 📩  [Email](sheetal.bongale@gmail.com)
+### 🔗 Stay connected - 💼  [LinkedIn](https://www.linkedin.com/in/sheetal-bongale/) 📩  [Email](sheetal.bongale@gmail.com)
 
 
