@@ -1,6 +1,6 @@
 ## Sheetal Bongale 👋
 
-👩🏻‍💻  I am a budding full-stack Data Scientist/Analyst & a Semiconductor Professional with a keen interest in Python Programming & Machine Learning.
+👩🏻‍💻  I am a budding full-stack Data Scientist & a Semiconductor Professional with a keen interest in Python Programming & Machine Learning.
 
 #### 🌱 I’m currently learning -
 - Deep Learning techniques using Keras and TensorFlow (Referring Aurelien Géron's book)
