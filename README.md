@@ -4,6 +4,7 @@
 
 #### 🌱 I’m currently learning -
 - Deep Learning techniques using Keras and TensorFlow (Referring Aurelien Géron's book)
+- End-to-End Machine Learning with TensorFlow on GCP
 - Time Series Forecasting
 - Anomaly Detection
 
